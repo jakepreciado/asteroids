@@ -5,8 +5,8 @@ import random
 import math
 
 # These are Global constants to use throughout the game
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 1000
+SCREEN_HEIGHT = 800
 
 BULLET_RADIUS = 30
 BULLET_SPEED = 10
