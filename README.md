@@ -19,7 +19,7 @@ Asteroids. An extremely simple version of the classic arcade game. Built out for
 ### Clone the Repository
 
 Clone the repository from GitHub:
- ``git clone https://github.com/your-username/asteroids-game.git``
+ ``git clone https://github.com/jmpre28/asteroids.git``
  
 Install Pygame through the following cmd:
  ``pip install pygame``
