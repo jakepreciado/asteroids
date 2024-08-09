@@ -37,7 +37,3 @@ To start the game, run `asteroids.py` in your terminal.
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
